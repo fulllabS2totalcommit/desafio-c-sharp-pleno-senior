@@ -26,18 +26,18 @@ Crie um projeto ASP .NET Web Api, que:
 4)Crie um banco de dados MySql com uma tabela chamada Visita (id, e-mail, produto, dataAcesso). Obs.: Enviar script do banco.
 
 
-5) Crie um Endpoint que receba um id de produto e acumule uma visita para este produto na tabela do MySql.
+5)Crie um Endpoint que receba um id de produto e acumule uma visita para este produto na tabela do MySql.
 
  - Documentação do MySql: https://dev.mysql.com/doc/
 
 
-6) Crie um Endpoint que receba um id de produto e uma data e retorne a quantidade de visitas daquele produto para a data especificada.
+6)Crie um Endpoint que receba um id de produto e uma data e retorne a quantidade de visitas daquele produto para a data especificada.
 
 
 7)Possua uma rota que receba um body contendo título e mensagem e crie uma push notification no One Signal via rest api.
 
  - Documentação do One Signal: https://documentation.onesignal.com/v3.0/docs/onesignal-api
 
-8) Crie projeto de testes para validar todas os endpoints.
+8)Crie projeto de testes para validar todas os endpoints.
 
-9) Documente o Código fonte.
+9)Documente o Código fonte.
